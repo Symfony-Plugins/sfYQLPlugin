@@ -1,0 +1,6 @@
+all:
+
+  yql:
+  
+    proxy: ""
+    url_base: "http://query.yahooapis.com/v1/public/yql"
